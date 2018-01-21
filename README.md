@@ -1,6 +1,6 @@
-# r6_idle
+# r6_auto_idle
 
-Idle script for rainbow six.
+Idle script for rainbow six. Nets a new operator every day
 
 1. Settings: thunt: everything off except hostage
 
