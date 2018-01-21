@@ -8,6 +8,8 @@ Idle script for rainbow six.
 
 3. run script
 
+4. press insert to start auto idle
+
 
 -15 seconds for op select, 30 seconds setup, 30 seconds for terrorists to find hostage, 15 seconds for post match
 
