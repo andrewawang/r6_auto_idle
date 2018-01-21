@@ -2,6 +2,7 @@
  ; Settings: thunt: everything off except hostage
  ; Start lone wolf normal thunt
  ; run script
+ ; press insert to start
 
 
 SendMode Input
