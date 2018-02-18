@@ -8,7 +8,7 @@ Idle script for rainbow six. Nets a new operator every day
 
 3. run script
 
-4.Put mouse cursor in the general area of the red rectangle in this picture: https://i.imgur.com/R7ZrkAT.png
+4. Put mouse cursor in the general area of the red rectangle in this picture: https://i.imgur.com/R7ZrkAT.png
 
 It needs to be positioned so the retry button can be auto clicked.
 
